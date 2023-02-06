@@ -42,7 +42,7 @@ jobs:
           git --version
           echo 4. what about build tools?
           mvn --version
-          gradel --version'
+          gradle --version
           ant -version
           echo
           echo 5. where is the Android SDK Root?
